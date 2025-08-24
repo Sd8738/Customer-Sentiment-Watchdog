@@ -25,7 +25,7 @@ This project is a single file and requires no installation or build steps.
 
 1.  **Download the Code**: Clone this repository or simply download the `index.html` file.
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/Sd8738/Customer-Sediment-Watchdog.git]
     ```
 2.  **Open in Browser**: Navigate to the project directory and open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge).
 
