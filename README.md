@@ -2,7 +2,7 @@
 
 A dynamic, single-page web application that provides a dashboard for real-time customer sentiment analysis. This tool is built with HTML, Tailwind CSS, and vanilla JavaScript, featuring a live-updating interface to monitor mock data from various social platforms.
 
-![image](https://user-images.githubusercontent.com/Sd8738/Customer-Sediment-Watchdog/assets/screenshot.png) ## ✨ Features
+![image](https://i.postimg.cc/d3WZDPPw/Screenshot-12.png/Sd8738/Customer-Sediment-Watchdog/assets/screenshot.png) ## ✨ Features
 
 -   **Manual Sentiment Analysis**: Enter any text to get an instant sentiment classification.
 -   **Real-Time Feeds**: Simulates live feeds from platforms like Twitter, Amazon, Reddit, etc., with continuously updating comments.
